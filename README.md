@@ -1,2 +1,2 @@
-# mangov0.0.5
-mango school management platform
+# applet
+基于微信小程序的一套校园管理系统

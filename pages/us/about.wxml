@@ -1,0 +1,15 @@
+<!--index.wxml-->
+<view class="container" style="background-color: #fff;">
+    <view class="header">
+      <view class="menu active" bindtap="menutap" data-url="../us/about">关于MANGO<view></view></view>
+      <view class="menu" bindtap="menutap" data-url="../us/company">关于公司</view>
+    </view>
+    <view class="center">
+      <image src="/images/us/1.png" style="width:320rpx;margin:150rpx 215rpx;" mode="widthFix"></image>
+      <view class="unit">
+          <view style="margin:30px 10px;">产品归属：天津工业大学忙果校园</view>
+          <view style="margin:30px 10px;">联系方式：152-2277-2870</view>
+          <view style="margin:30px 10px;">当前版本：demo</view>
+      </view>
+    </view>
+</view>
